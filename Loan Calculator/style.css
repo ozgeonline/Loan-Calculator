@@ -1,0 +1,16 @@
+body{
+    min-height: 100vh;
+    overflow: hidden;
+    background-color: gainsboro;
+    box-sizing: border-box;
+}
+.container{
+    height: 100vh;
+    background-color: blue;
+    max-width: 500px;
+    max-height: 500px;
+    margin-top: 5rem;
+}
+.form-control{
+    max-width: 350px;
+}
